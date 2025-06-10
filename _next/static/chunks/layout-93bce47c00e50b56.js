@@ -131,7 +131,7 @@
                     blurHeight: 0
                 },
                 r = {
-                    src: "./_next/static/media/icn_toolkit_livechat.19f411ab.png",
+                    src: "../_next/static/media/icn_toolkit_livechat.19f411ab.png",
                     height: 128,
                     width: 128,
                     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAVFBMVEXy+P8mnv/e7P8Zhv8ijP/L5v8knf8qnf8biP5MaXFTkvrm8v4xsf4vq/8sqP+Hu/43ifxhlfiIpPeeq/V1wP4biP82jP3Z6v8cgv0ijv+KpPZtmfh9GTmXAAAAHHRSTlP+3vv1ovf15ykA4fwpo9vq4vSjKenX5/vn2NjefJ51WQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEJJREFUeJwFwQcCwCAIBLBTUcC9uv//zybQXIwhUeQamN0hKGEDzREq+5TsGWHYAzZ+oOAv28aEPO7u411QoR7n0h9QPQKMK+wyRQAAAABJRU5ErkJggg==",

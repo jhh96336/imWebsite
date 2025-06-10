@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="119px" height="40px" viewBox="0 0 119 40" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>logo - Eng</title>
+    <defs>
+        <radialGradient cx="29.8396379%" cy="75.0631362%" fx="29.8396379%" fy="75.0631362%" r="165.826616%" gradientTransform="translate(0.298396,0.750631),scale(1.000000,0.869231),rotate(-50.874382),translate(-0.298396,-0.750631)" id="radialGradient-1">
+            <stop stop-color="#1880FF" offset="0%"></stop>
+            <stop stop-color="#69B6FF" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="100%" cy="97.6480597%" fx="100%" fy="97.6480597%" r="112.662858%" gradientTransform="translate(1.000000,0.976481),scale(1.000000,0.703029),rotate(-128.212885),scale(1.000000,1.035733),translate(-1.000000,-0.976481)" id="radialGradient-2">
+            <stop stop-color="#E6F5FF" offset="0%"></stop>
+            <stop stop-color="#FFFFFF" offset="100%"></stop>
+        </radialGradient>
+        <radialGradient cx="29.8396379%" cy="75.0631362%" fx="29.8396379%" fy="75.0631362%" r="153.144697%" id="radialGradient-3">
+            <stop stop-color="#1880FF" offset="0%"></stop>
+            <stop stop-color="#69B6FF" offset="100%"></stop>
+        </radialGradient>
+        <circle id="path-4" cx="23.2307692" cy="13.0769231" r="1.07692308"></circle>
+        <filter x="-162.5%" y="-116.1%" width="425.0%" height="425.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0941176471   0 0 0 0 0.501960784   0 0 0 0 1  0 0 0 0.296547203 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+        <radialGradient cx="29.8396379%" cy="75.0631362%" fx="29.8396379%" fy="75.0631362%" r="159.795582%" gradientTransform="translate(0.298396,0.750631),scale(0.916667,1.000000),rotate(-44.408432),translate(-0.298396,-0.750631)" id="radialGradient-6">
+            <stop stop-color="#1880FF" offset="0%"></stop>
+            <stop stop-color="#69B6FF" offset="100%"></stop>
+        </radialGradient>
+        <path d="M12.9230769,15.6923077 L20.3076923,15.6923077 L17.1931089,22.4615385 C14.7234206,21.2964001 12.9884868,18.7116722 12.9230769,15.6923077 Z" id="path-7"></path>
+        <filter x="-47.4%" y="-36.9%" width="194.8%" height="203.4%" filterUnits="objectBoundingBox" id="filter-8">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0941176471   0 0 0 0 0.501960784   0 0 0 0 1  0 0 0 0.296547203 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="🍔-Price" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="220314---Price---Recommended" transform="translate(-179.000000, -36.000000)">
+            <g id="logo---Eng" transform="translate(179.615385, 36.000000)">
+                <g id="编组-8">
+                    <path d="M17.3846154,0 C26.9858733,0 34.7692308,7.78335743 34.7692308,17.3846154 C34.7692308,29.7574794 25.1029398,40 14.4615385,40 C14.180371,40 13.9005382,39.9943725 13.6221498,39.9832257 C15.2504993,38.5100295 16.5993044,36.7431215 17.581555,34.7680313 L17.3846154,34.7692308 C7.78335743,34.7692308 0,26.9858733 0,17.3846154 C0,7.78335743 7.78335743,0 17.3846154,0 Z" id="路径" fill="url(#radialGradient-1)"></path>
+                    <path d="M19.9365477,33.1088012 C19.6707435,33.127812 19.4052882,33.1407455 19.1404727,33.1478794 L18.8758814,33.1530905 L18.6645588,33.154517 C15.218638,33.1581003 11.9115316,32.2015638 9.39060548,30.9028401 L13.9955388,22.4639702 L13.8951376,22.3549317 C12.335104,20.6346334 11.3846154,18.3513929 11.3846154,15.8461538 C11.3846154,10.4932401 15.7240093,6.15384615 21.0769231,6.15384615 C23.8865242,6.15384615 26.4169089,7.34931412 28.1871612,9.25933417 C29.4988918,10.6746306 30.3561538,12.0332643 30.7619853,13.2375988 C31.683201,15.9713738 32.1418992,19.6050206 31.3720285,23.4834832 C30.3686219,28.5384552 26.7920469,33.8791887 19.9373375,37.068318 C18.9500415,37.5502815 18.1553151,37.8524792 17.5531583,37.9749111 C18.8150388,36.4177881 19.6620677,34.1568195 19.9365477,33.1088012 Z" id="路径" fill="url(#radialGradient-2)"></path>
+                    <g id="椭圆形">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                        <use fill="url(#radialGradient-3)" fill-rule="evenodd" xlink:href="#path-4"></use>
+                    </g>
+                    <g id="路径">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-8)" xlink:href="#path-7"></use>
+                        <use fill="url(#radialGradient-6)" fill-rule="evenodd" xlink:href="#path-7"></use>
+                    </g>
+                </g>
+                <text id="Meiqia" font-family="PingFangSC-Medium, PingFang SC" font-size="24" font-weight="400" line-spacing="32" fill="#1D2754">
+                    <tspan x="41.3846154" y="29">Meiqia</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -60,21 +60,21 @@
                 d = i(57731);
             i(46982);
             var h = {
-                    src: "./_next/static/media/nav_ai_platform.0a0eb402.svg",
+                    src: "../_next/static/media/nav_ai_platform.0a0eb402.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 u = {
-                    src: "./_next/static/media/nav_ai_text.e752cb2d.svg",
+                    src: "../_next/static/media/nav_ai_text.e752cb2d.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 x = {
-                    src: "./_next/static/media/nav_ai_voice.9252848f.svg",
+                    src: "../_next/static/media/nav_ai_voice.9252848f.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
@@ -82,14 +82,14 @@
                 },
                 p = i(47356),
                 m = {
-                    src: "./_next/static/media/nav_product_icon_customer_livechat.3aec189d.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_livechat.3aec189d.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 g = {
-                    src: "./_next/static/media/nav_product_icon_customer_marketing.95145204.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_marketing.95145204.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
@@ -97,7 +97,7 @@
                 },
                 f = i(59027),
                 b = {
-                    src: "./_next/static/media/nav_product_icon_customer_support_call.0262a72e.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_support_call.0262a72e.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
@@ -105,14 +105,14 @@
                 },
                 v = i(32187),
                 _ = {
-                    src: "./_next/static/media/nav_product_icon_customer_global_deploy.b145b1c2.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_global_deploy.b145b1c2.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 w = {
-                    src: "./_next/static/media/nav_product_icon_customer_global_global.d5a3a517.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_global_global.d5a3a517.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
@@ -120,98 +120,98 @@
                 },
                 A = i(32364),
                 j = {
-                    src: "./_next/static/media/nav_product_icon_customer_support_ticket.f9c7160b.svg",
+                    src: "../_next/static/media/nav_product_icon_customer_support_ticket.f9c7160b.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 N = {
-                    src: "./_next/static/media/nav_resource_icon_blog.4c1f9e0d.svg",
+                    src: "../_next/static/media/nav_resource_icon_blog.4c1f9e0d.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 y = {
-                    src: "./_next/static/media/nav_resource_icon_brand.0479c317.svg",
+                    src: "../_next/static/media/nav_resource_icon_brand.0479c317.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 k = {
-                    src: "./_next/static/media/nav_resource_icon_whitepaper.7ee53c71.svg",
+                    src: "../_next/static/media/nav_resource_icon_whitepaper.7ee53c71.svg",
                     height: 48,
                     width: 48,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 C = {
-                    src: "./_next/static/media/nav_solution_icon_edu.85092f0b.svg",
+                    src: "../_next/static/media/nav_solution_icon_edu.85092f0b.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 I = {
-                    src: "./_next/static/media/nav_solution_icon_ent_service.bf0af79a.svg",
+                    src: "../_next/static/media/nav_solution_icon_ent_service.bf0af79a.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 E = {
-                    src: "./_next/static/media/nav_solution_icon_global.278e3439.svg",
+                    src: "../_next/static/media/nav_solution_icon_global.278e3439.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 F = {
-                    src: "./_next/static/media/nav_solution_icon_home.3a2ced42.svg",
+                    src: "../_next/static/media/nav_solution_icon_home.3a2ced42.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 W = {
-                    src: "./_next/static/media/nav_solution_icon_medical.835d1a79.svg",
+                    src: "../_next/static/media/nav_solution_icon_medical.835d1a79.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 P = {
-                    src: "./_next/static/media/nav_solution_icon_smart_gov.90417acc.svg",
+                    src: "../_next/static/media/nav_solution_icon_smart_gov.90417acc.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 H = {
-                    src: "./_next/static/media/nav_support_icon_develop.709ebba3.svg",
+                    src: "../_next/static/media/nav_support_icon_develop.709ebba3.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 Q = {
-                    src: "./_next/static/media/nav_support_icon_download.5b47e8c8.svg",
+                    src: "../_next/static/media/nav_support_icon_download.5b47e8c8.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 R = {
-                    src: "./_next/static/media/nav_support_icon_help.2b2babd4.svg",
+                    src: "../_next/static/media/nav_support_icon_help.2b2babd4.svg",
                     height: 20,
                     width: 20,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 z = {
-                    src: "./_next/static/media/bg_recommend_1.85a34360.webp",
+                    src: "../_next/static/media/bg_recommend_1.85a34360.webp",
                     height: 160,
                     width: 328,
                     blurDataURL: "data:image/webp;base64,UklGRmAAAABXRUJQVlA4WAoAAAAQAAAABwAAAwAAQUxQSBMAAAABD0CQbePPvO3XiIg4mMCI/kcCAFZQOCAmAAAAcAEAnQEqCAAEAAYAOCWMAnQBdQAA/vl64fw4B+Ai3vqhDGKAAAA=",
@@ -219,7 +219,7 @@
                     blurHeight: 4
                 },
                 O = {
-                    src: "./_next/static/media/bg_recommend_2.6e169377.webp",
+                    src: "../_next/static/media/bg_recommend_2.6e169377.webp",
                     height: 160,
                     width: 328,
                     blurDataURL: "data:image/webp;base64,UklGRnAAAABXRUJQVlA4WAoAAAAQAAAABwAAAwAAQUxQSBMAAAABD0CQbePPvO3XiIg4mMCI/kcCAFZQOCA2AAAA8AEAnQEqCAAEAAJAOCWoAnS6AAK6fJd4AP76SnauGcsL9nZxTxKdin/zcTh/8yv+0WP9ZQAA",
@@ -227,7 +227,7 @@
                     blurHeight: 4
                 },
                 D = {
-                    src: "./_next/static/media/bg_recommend_3.b33af79a.webp",
+                    src: "../_next/static/media/bg_recommend_3.b33af79a.webp",
                     height: 160,
                     width: 328,
                     blurDataURL: "data:image/webp;base64,UklGRmQAAABXRUJQVlA4WAoAAAAQAAAABwAAAwAAQUxQSBMAAAABD0CQbePPvO3XiIg4mMCI/kcCAFZQOCAqAAAA0AEAnQEqCAAEAAJAOCWIAnQBDvpx+QAA/vguLAMxVKu5l3PbfLogAAAA",
@@ -567,7 +567,7 @@
                         }), (0, n.jsx)("div", {
                             className: "w-[428px] rounded-r-xl relative overflow-hidden p-4",
                             style: {
-                                backgroundImage: "url(".concat("./_next/static/media/nav_product_right_bg.6b449bed.webp", ")"),
+                                backgroundImage: "url(".concat("../_next/static/media/nav_product_right_bg.6b449bed.webp", ")"),
                                 backgroundSize: "cover",
                                 backgroundPosition: "center"
                             },
@@ -584,13 +584,13 @@
                                         }), (0, n.jsx)(T, {
                                             className: "absolute right-0 bottom-0 w-[164px] h-[102px]",
                                             frontConfig: {
-                                                src: "./_next/static/media/icn_recommend_1.d63e6f43.webp",
+                                                src: "../_next/static/media/icn_recommend_1.d63e6f43.webp",
                                                 width: 66,
                                                 height: 66,
                                                 className: "top-[22px] left-[96px]"
                                             },
                                             backConfig: {
-                                                src: "./_next/static/media/img_recommend_1.719f9b14.webp",
+                                                src: "../_next/static/media/img_recommend_1.719f9b14.webp",
                                                 width: 164,
                                                 height: 102,
                                                 className: "top-[36px] left-[10px] rotate-3"
@@ -618,13 +618,13 @@
                                         }), (0, n.jsx)(T, {
                                             className: "absolute right-0 bottom-0 w-[164px] h-[102px]",
                                             frontConfig: {
-                                                src: "./_next/static/media/icn_recommend_2.1a14e716.webp",
+                                                src: "../_next/static/media/icn_recommend_2.1a14e716.webp",
                                                 width: 74,
                                                 height: 44,
                                                 className: "top-[22px] left-[90px]"
                                             },
                                             backConfig: {
-                                                src: "./_next/static/media/img_recommend_2.0752130a.webp",
+                                                src: "../_next/static/media/img_recommend_2.0752130a.webp",
                                                 width: 164,
                                                 height: 102,
                                                 className: "top-[36px] left-[10px] rotate-3"
@@ -652,13 +652,13 @@
                                         }), (0, n.jsx)(T, {
                                             className: "absolute right-0 bottom-0 w-[164px] h-[102px]",
                                             frontConfig: {
-                                                src: "./_next/static/media/icn_recommend_3.b3c4615f.webp",
+                                                src: "../_next/static/media/icn_recommend_3.b3c4615f.webp",
                                                 width: 74,
                                                 height: 44,
                                                 className: "top-[22px] left-[90px]"
                                             },
                                             backConfig: {
-                                                src: "./_next/static/media/img_recommend_3.9869e6fd.webp",
+                                                src: "../_next/static/media/img_recommend_3.9869e6fd.webp",
                                                 width: 164,
                                                 height: 102,
                                                 className: "top-[36px] left-[10px] rotate-3"
@@ -1236,7 +1236,7 @@
         35085: function(t, e) {
             "use strict";
             e.Z = {
-                src: "./_next/static/media/nav_logo.d16620f7.svg",
+                src: "../_next/static/media/nav_logo.d16620f7.svg",
                 height: 48,
                 width: 96,
                 blurWidth: 0,
@@ -1246,7 +1246,7 @@
         17417: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/footer_label_10.a67e141a.svg",
+                src: "../_next/static/media/footer_label_10.a67e141a.svg",
                 height: 12,
                 width: 47,
                 blurWidth: 0,
@@ -1256,7 +1256,7 @@
         5601: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/footer_label_10_en.42e9de88.svg",
+                src: "../_next/static/media/footer_label_10_en.42e9de88.svg",
                 height: 20,
                 width: 46,
                 blurWidth: 0,
@@ -1266,7 +1266,7 @@
         85844: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/footer_label_ai_agent.6e4ab31b.svg",
+                src: "../_next/static/media/footer_label_ai_agent.6e4ab31b.svg",
                 height: 12,
                 width: 54,
                 blurWidth: 0,
@@ -1276,7 +1276,7 @@
         18711: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/nav_logo_en.ef7c7a7c.svg",
+                src: "../_next/static/media/nav_logo_en.ef7c7a7c.svg",
                 height: 40,
                 width: 119,
                 blurWidth: 0,
@@ -1286,7 +1286,7 @@
         47356: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/nav_product_icon_customer_callrobot.e36d9a63.svg",
+                src: "../_next/static/media/nav_product_icon_customer_callrobot.e36d9a63.svg",
                 height: 20,
                 width: 20,
                 blurWidth: 0,
@@ -1296,7 +1296,7 @@
         59027: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/nav_product_icon_customer_robot.427b5a36.svg",
+                src: "../_next/static/media/nav_product_icon_customer_robot.427b5a36.svg",
                 height: 20,
                 width: 20,
                 blurWidth: 0,
@@ -1306,7 +1306,7 @@
         32364: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/nav_product_icon_customer_support_chatbot.fd5c8ffb.svg",
+                src: "../_next/static/media/nav_product_icon_customer_support_chatbot.fd5c8ffb.svg",
                 height: 20,
                 width: 20,
                 blurWidth: 0,
@@ -1316,7 +1316,7 @@
         32187: function(t, e, i) {
             "use strict";
             i.r(e), e.default = {
-                src: "./_next/static/media/nav_product_icon_customer_support_livechat.f5991ded.svg",
+                src: "../_next/static/media/nav_product_icon_customer_support_livechat.f5991ded.svg",
                 height: 20,
                 width: 20,
                 blurWidth: 0,

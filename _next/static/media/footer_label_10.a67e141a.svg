@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="47px" height="12px" viewBox="0 0 47 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>footer label_10年口碑</title>
+    <g id="💻首页_zh-cn" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(-766, -7581)" id="footer">
+            <g transform="translate(259, 7493)">
+                <g id="编组-14" transform="translate(406, 0)">
+                    <g id="footer-label_10年口碑" transform="translate(101, 88)">
+                        <path d="M41,0 C44.3137085,-6.08718376e-16 47,2.6862915 47,6 C47,9.3137085 44.3137085,12 41,12 L6.6025641,12 L6.557,11.999 L1.02318154e-12,12 L2.29236062,10.1739913 C1.24634663,9.0940584 0.602564103,7.62221093 0.602564103,6 C0.602564103,2.6862915 3.2888556,4.05812251e-16 6.6025641,0 L41,0 Z" id="形状结合" fill="#1880FF"></path>
+                        <text dominant-baseline="middle" id="10年口碑" fill-rule="nonzero" font-family="SFPro-Regular, SF Pro" font-size="7.2" font-weight="normal" line-spacing="12" fill="#FFFFFF">
+                            <tspan x="7.30128205" y="7">10 </tspan>
+                            <tspan x="17.8762821" y="7" font-family="PingFangSC-Regular, PingFang SC">年口碑</tspan>
+                        </text>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
