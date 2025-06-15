@@ -116,22 +116,22 @@
             });
             var o = n(78174),
                 a = {
-                    src: "../../_next/static/media/icn_tookit_ad.8c675d86.svg",
+                    src: "./_next/static/media/icn_tookit_ad.8c675d86.svg",
                     height: 115,
                     width: 82,
                     blurWidth: 0,
                     blurHeight: 0
                 },
-                i = "../../_next/static/media/icn_toolkit_bubble.a925f184.png",
+                i = "./_next/static/media/icn_toolkit_bubble.a925f184.png",
                 l = {
-                    src: "../../_next/static/media/icn_toolkit_call.aabfe7c0.svg",
+                    src: "./_next/static/media/icn_toolkit_call.aabfe7c0.svg",
                     height: 70,
                     width: 64,
                     blurWidth: 0,
                     blurHeight: 0
                 },
                 r = {
-                    src: "../_next/static/media/icn_toolkit_livechat.19f411ab.png",
+                    src: "./_next/static/media/icn_toolkit_livechat.19f411ab.png",
                     height: 128,
                     width: 128,
                     blurDataURL: "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAgAAAAICAMAAADz0U65AAAAVFBMVEXy+P8mnv/e7P8Zhv8ijP/L5v8knf8qnf8biP5MaXFTkvrm8v4xsf4vq/8sqP+Hu/43ifxhlfiIpPeeq/V1wP4biP82jP3Z6v8cgv0ijv+KpPZtmfh9GTmXAAAAHHRSTlP+3vv1ovf15ykA4fwpo9vq4vSjKenX5/vn2NjefJ51WQAAAAlwSFlzAAALEwAACxMBAJqcGAAAAEJJREFUeJwFwQcCwCAIBLBTUcC9uv//zybQXIwhUeQamN0hKGEDzREq+5TsGWHYAzZ+oOAv28aEPO7u411QoR7n0h9QPQKMK+wyRQAAAABJRU5ErkJggg==",
@@ -156,7 +156,7 @@
                                 className: "w-16 cursor-pointer hover:opacity-90",
                                 src: r,
                                 alt: "",
-                                onClick: () => (0, c.$)()
+                                onClick: () => window.open('https://temp.cuzservice.vip/?orgCode=cuz')
                             }), (0, o.jsx)("div", {
                                 style: {
                                     backgroundImage: "url(".concat(i, ")")
@@ -164,7 +164,7 @@
                                 className: "absolute right-20 top-1/2 -translate-y-1/2  w-[166px] h-[105px] bg-contain pt-2 px-2 pb-12 items-center justify-center flex",
                                 children: (0, o.jsx)("span", {
                                     className: "font-semibold text-sm text-[#040F42]",
-                                    children: "在线咨询\uD83D\uDC4B"
+                                    children: `${t=='en'?'Consult Online':'在线咨询'}\uD83D\uDC4B`
                                 })
                             })]
                         })]
@@ -322,6 +322,7 @@
                 s = n(26960);
 
             function c() {
+                return
                 let {
                     getVisitorInfo: e
                 } = r();
