@@ -164,7 +164,7 @@
                                 className: "absolute right-20 top-1/2 -translate-y-1/2  w-[166px] h-[105px] bg-contain pt-2 px-2 pb-12 items-center justify-center flex",
                                 children: (0, o.jsx)("span", {
                                     className: "font-semibold text-sm text-[#040F42]",
-                                    children: "在线咨询\uD83D\uDC4B"
+                                    children: `${t=='en'?'Consult Online':'在线咨询'}\uD83D\uDC4B`
                                 })
                             })]
                         })]
