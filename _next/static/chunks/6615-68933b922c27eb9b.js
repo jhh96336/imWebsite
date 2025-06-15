@@ -1165,8 +1165,8 @@
                 }
             });
             let s = {
-                signin: "https://cuzservice.vip/login",
-                signup: "https://cuzservice.vip/register",
+                signin: "https://im.cuzservice.vip//login",
+                signup: "https://im.cuzservice.vip//register",
                 sichuanRecord: "http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=51019002001144",
                 icpRecord: "http://beian.miit.gov.cn/",
                 report_entry: "https://docs.qq.com/form/page/DWkRkRXNPRXhTTGxR#/fill",
@@ -1175,7 +1175,7 @@
                 mixdesk: "https://mixdesk.com/",
                 xiaohongshu: "https://www.xiaohongshu.com/user/profile/5dafbd910000000001000fb3",
                 douyin: "https://v.douyin.com/iyvaBobw/ ",
-                trialLink: "https://cuzservice.vip/register"
+                trialLink: "https://im.cuzservice.vip//register"
             }
         },
         93186: function(t, e, i) {
